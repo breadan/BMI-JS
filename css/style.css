@@ -1,0 +1,18 @@
+:root {
+    --mainColor: #c5bcbc;
+  }
+  
+  h1 {
+    color: var(--mainColor);
+  }
+  
+  .main {
+    width: 95%;
+    margin: auto;
+  }
+  .footer {
+    font-size: 10px;
+  }
+  
+  
+  
